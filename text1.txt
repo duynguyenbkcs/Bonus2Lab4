@@ -1,1 +1,2 @@
 this is a text in text 1
+Fixed issue1 in this text
